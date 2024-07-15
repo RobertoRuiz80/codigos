@@ -1,5 +1,4 @@
 # Repositorio
-## M. en E. S. Roberto Ruiz Mendoza
+### Roberto Ruiz Mendoza
 
 ***
-
